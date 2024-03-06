@@ -1,0 +1,1 @@
+f=pd.read_csv(os.path.join('data','gemstone.csv')

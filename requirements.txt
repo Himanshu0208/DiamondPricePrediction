@@ -2,4 +2,7 @@ pandas
 numpy
 seaborn
 flask 
+scikit-learn
+Pyarrow
+logging
 -e .
